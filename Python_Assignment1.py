@@ -187,7 +187,7 @@ if len(new_arr) > 0:
 
 
 print('''
-        1 lower case letter
+        1: lower case letter
         2: 1 upper case letter
         3: 1 digit
         4: 8 > length < 20
